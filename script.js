@@ -1,3 +1,3 @@
 function getStarted() {
-  alert("Welcome! Let's get started with Asad Ahmad's website.");
+  alert("Welcome! Let's get started with Asaad Ahmad's website.");
 }
